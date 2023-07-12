@@ -6,6 +6,4 @@ import br.com.guilhermepellegrini.gamelist.entities.Game;
 
 public interface GameRepository extends JpaRepository<Game, Long> {
 
-	
-	
 }
